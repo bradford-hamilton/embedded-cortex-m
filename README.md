@@ -1,0 +1,1 @@
+Going through [The Embedded Rust Book](https://rust-embedded.github.io/book)
